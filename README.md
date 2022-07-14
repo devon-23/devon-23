@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devonbarks
 - ⌨️ I am a senior at Rowan University ⌨️
-       I am currently enorlled in the following programs @ Rowan
+       - I am currently enorlled in the following programs @ Rowan
         - 👩🏼‍💻 Computing and Informatics (major)
         - 💻 Computer Science (minor)
         - 🇩🇪 German Studies (minor)
