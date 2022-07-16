@@ -13,7 +13,7 @@ I am currently enrolled in the following programs @ Rowan
  
  🌱 I’m currently learning Vue & Chart.js
  
- 💻 You can see my projects at elvis.rowan.edu/~barcla29 (( index page coming soon! ))
+ 💻 You can see my projects at elvis.rowan.edu/~barcla29/{{ repo_name }} //index page coming soon!
 
 <!---
 devonbarks/devonbarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
