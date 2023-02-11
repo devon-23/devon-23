@@ -11,7 +11,7 @@ I am currently enrolled in the following programs @ Rowan
 -----------------------------
  👀 I’m interested in Software Development & Cyber Security
  
- 🌱 I’m currently learning jQuery
+ 🌱 I’m currently learning Unity
  
  💻 You can see my projects at elvis.rowan.edu/~barcla29/{{ repo_name }} //index page coming soon!
 
