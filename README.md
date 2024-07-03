@@ -1,13 +1,14 @@
 👋 Hi, I’m Devonnn!
 -----------------------------
 ⌨️ I am a Software Engineer E @ FIS ⌨️
-
-About my learning experience --->
+<!---
+About my learning experience 
  - 👩🏼‍💻 Computing and Informatics (major)
  - 💻 Computer Science (minor)
  - 🇩🇪 German Studies (minor)
  - 🔐 Cyber Security (concentration)
  - 👔 Management Information Systems (CUGS)
+ --->
 -----------------------------
  👀 I’m interested in Software Development & Cyber Security
  
