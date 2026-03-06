@@ -12,7 +12,7 @@ About my learning experience
 -----------------------------
  👀 I’m interested in Software Development & Cyber Security
  
- 🌱 I’m currently learning Beanshell & Sailpoint
+ 🌱 I’m currently learning Sailpoint CI/CD
 
 -----------------------------
  👩🏼‍💻 About my work at FIS 👩🏼‍💻
