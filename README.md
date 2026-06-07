@@ -1,6 +1,6 @@
 👋 Hi, I’m Devonnn!
 -----------------------------
-⌨️ I am a Software Engineer E @ FIS ⌨️
+⌨️ I am a Cyber Security Engineer @ FIS ⌨️
 <!---
 About my learning experience 
  - 👩🏼‍💻 Computing and Informatics (major)
