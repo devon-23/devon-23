@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=640&height=44&lines=if%20it%20runs%2C%20it%20runs;if%20this%20isn't%20nice%2C%20I%20don't%20know%20what%20is" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=640&height=44&lines=if%20it%20runs%2C%20it%20runs;if%20this%20isn't%20nice%2C%20i%20don't%20know%20what%20is" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Cyber Security Engineer who loves
+Cyber Security Engineer who loves coding pointless things
 
 🔭 &nbsp;I'm currently working on **ISS Tracker 🛰️**  
 🌱 &nbsp;I'm currently learning **Sailpoint CI/CD**  
