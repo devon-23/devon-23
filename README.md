@@ -12,9 +12,9 @@
 
 Cyber Security Engineer who loves coding useless projects
 
-🔭 &nbsp;I'm currently working on **Satellite Tracker 🛰️**  
-🌱 &nbsp;I'm currently learning **Claude Code**  
-⚡ &nbsp;Fun fact: **I once coded a website that got 100,000 views**
+🔭 &nbsp;I'm currently working on a **Twenty one Pilots fan website**  
+🌱 &nbsp;I'm currently learning **Open Source**  
+⚡ &nbsp;Fun fact: **I once coded a website when I was 15 that got 100,000 views**
 
 ### 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ Cyber Security Engineer who loves coding useless projects
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/devon-barclay-a2b8a518b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/devon-barclay-a2b8a518b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -52,6 +52,3 @@ Cyber Security Engineer who loves coding useless projects
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=devon-23&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/devon-23">devon-23</a></i></p>
